@@ -1,4 +1,4 @@
 public void logowanie{
   System.out.println("podaj nazwę użytkownika");
-  System.out.println("podaj nowe hasło do commita");
+  System.out.println("podaj nowe hasło");
   System.out.println("kliknij zaloguj");
